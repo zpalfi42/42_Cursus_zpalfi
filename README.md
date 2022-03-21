@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zsolt or Zpalfi</h1>
 <h5 align="center">And this are my finished projects from 42 Cursus</h5>
+
 ## My Holy Graph
 ![Holy Graph](https://github.com/Zsolt42/42_Cursus_zpalfi/blob/main/Addings/holy_graph.png)
+
 <h3>&nbsp;</h3>
 <h3 align="left" href="https://github.com/Zsolt42/42_Cursus_zpalfi/tree/main/Libft">1. LIBFT</h3>
 
