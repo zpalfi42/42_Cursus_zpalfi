@@ -12,7 +12,7 @@
 - For this project we had to replicate a few existig funcions from c libraries (such as [atoi](https://www.tutorialspoint.com/c_standard_library/c_function_atoi.htm) or [strchr](https://www.tutorialspoint.com/c_standard_library/c_function_strchr.htm)) and makes a few new ones.
 )
 
-<h3>&nbsp;</h3>
+<p align="center"><a><img src="https://github.com/Zsolt42/42_Cursus_zpalfi/blob/main/Addings/Libft_mark.png"></a></p>
 <h3 align="left">2. GET NEXT LINE</h3>
 <h3>&nbsp;</h3>
 <h3 align="left">3. PRINTF</h3>
