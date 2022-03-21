@@ -3,7 +3,7 @@
 
 <h3 align="left">Most of the projects are made in&nbsp;&nbsp;
   <a target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="15" height="15"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/>
   </a>
 </h3>
 
