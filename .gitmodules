@@ -1,4 +1,4 @@
-[submodule "FdF"]
-	path = FdF
+[submodule "FdF2"]
+	path = FdF_2
 	url = https://github.com/Zsolt42/FdF.git
 	branch = master
