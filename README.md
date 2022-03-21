@@ -8,6 +8,7 @@
 </h3>
 <h3>&nbsp;</h3>
 <h3 align="left">1. LIBFT</h3>
+- For this project we had to replicate a few existig funcions from c libraries (such as atoi or strchr) and makes a few new ones.
 <h3>&nbsp;</h3>
 <h3 align="left">2. GET NEXT LINE</h3>
 <h3>&nbsp;</h3>
