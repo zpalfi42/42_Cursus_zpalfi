@@ -10,3 +10,6 @@
 [submodule "Get_Next_Line"]
 	path = Get_Next_Line
 	url = https://github.com/Zsolt42/GNL.git
+[submodule "Libft"]
+	path = Libft
+	url = https://github.com/Zsolt42/Libft.git
