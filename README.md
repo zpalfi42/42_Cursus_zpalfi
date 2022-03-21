@@ -7,3 +7,5 @@
 
 <h2 align="center">⚠️👷Currently working in Push_swap👷⚠️</h2>
 <h3>&nbsp;</h3>
+
+* [x] [Libft](./Libft) Mark: 125/100
