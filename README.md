@@ -7,5 +7,4 @@
   </a>
 </h3>
 <h3>&nbsp;</h3>
-<h3>&nbsp;</h3>
 <h3>LIBFT</h3>
