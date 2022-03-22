@@ -6,7 +6,7 @@
 ![Holy Graph](https://github.com/Zsolt42/42_Cursus_zpalfi/blob/main/Addings/holy_graph.png)
 
 <h3>&nbsp;</h3>
-<h1 align="center">✨FINISHED PROJECTS✨</h1>
+<h2 align="center">✨ FINISHED PROJECTS ✨</h2>
 <h3>&nbsp;</h3>
 
 | Project        | Keywords                                                                     | Language | Skills                                                         |  Mark    |
@@ -18,3 +18,8 @@
 | [FdF](https://github.com/Zsolt42/FdF)            | Simple graphic library, Segment design, Events, 3D projection in 2D | C        | `Imperative programming` `Rigor` `Algorithms & AI` `Graphics`  | 108/100  |
 
 <h5 align="center">⚠️👷Currently working in Push_swap👷⚠️</h5>
+
+<h3>&nbsp;</h3>
+<h2 align="center">♦️ C Templates ♦️</h2>
+
+#### ve done some templates for your projects in c. In this templates I added [`Libft`](https://github.com/Zsolt42/Libft) [`Get Next Line`](https://github.com/Zsolt42/GNL) and [`ft_Printf`](https://github.com/Zsolt42/Printf)
