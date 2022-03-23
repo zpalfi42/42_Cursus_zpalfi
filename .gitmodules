@@ -10,3 +10,6 @@
 [submodule "ft_Printf"]
 	path = ft_Printf
 	url = https://github.com/Zsolt42/Printf.git
+[submodule "FdF42"]
+	path = FdF42
+	url = https://github.com/Zsolt42/FdF.git
