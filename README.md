@@ -22,4 +22,4 @@
 <h3>&nbsp;</h3>
 <h2 align="center">♦️ C Templates ♦️</h2>
 
-#### I've done some templates for your projects in C. In this templates I added [`Libft`](https://github.com/Zsolt42/Libft) [`Get Next Line`](https://github.com/Zsolt42/GNL) and [`ft_Printf`](https://github.com/Zsolt42/Printf).
+#### I've done some [templates](https://github.com/Zsolt42/42_Cursus_zpalfi/tree/main/C_Templates) for your projects in C. In this templates I added [`Libft`](https://github.com/Zsolt42/Libft) [`Get Next Line`](https://github.com/Zsolt42/GNL) and [`ft_Printf`](https://github.com/Zsolt42/Printf).
