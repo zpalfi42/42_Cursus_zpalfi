@@ -11,16 +11,16 @@
 
 | Project        | Keywords                                                                     | Language | Skills                                                         |  Mark    |
 | -------------- | ---------------------------------------------------------------------------- | -------- |  -------------------------------------------------------------- | -------- |
-| [Libft](https://github.com/Zsolt42/Libft)         | Unix logic                                                           | C        | `Imperative programming` `Rigor` `Algorithms & AI`             | 125/100  |
-| [Get_Next_Line](https://github.com/Zsolt42/GNL)   | Unix logic                                                           | C        | `Unix` `Rigor` `Algorithms & AI`                     | 100/100  |
-| [Printf](https://github.com/Zsolt42/Printf)         | Unix logic                                                           | C        | `Rigor` `Algorithms & AI`                                   | 100/100  |
-| [Pipex](https://github.com/Zsolt42/Pipex)          | Unix logic                                                           | C        | `Unix` `Imperative programming`                          | 100/100  |
-| [FdF](https://github.com/Zsolt42/FdF)            | Simple graphic library, Segment design, Events, 3D projection in 2D | C        | `Imperative programming` `Rigor` `Algorithms & AI` `Graphics`  | 108/100  |
-| [Push_Swap](https://github.com/Zsolt42/Push_Swap) | Sorting algorithms, Battery concept and handling elements, Algorithm implementation | C        | `Imperative programming` `Rigor` `Algorithms & AI` `Unix`  | 86/100  |
+| [Libft](https://github.com/Zpalfi42/Libft)         | Unix logic                                                           | C        | `Imperative programming` `Rigor` `Algorithms & AI`             | 125/100  |
+| [Get_Next_Line](https://github.com/Zpalfi42/GNL)   | Unix logic                                                           | C        | `Unix` `Rigor` `Algorithms & AI`                     | 100/100  |
+| [Printf](https://github.com/Zpalfi42/Printf)         | Unix logic                                                           | C        | `Rigor` `Algorithms & AI`                                   | 100/100  |
+| [Pipex](https://github.com/Zpalfi42/Pipex)          | Unix logic                                                           | C        | `Unix` `Imperative programming`                          | 100/100  |
+| [FdF](https://github.com/Zpalfi42/FdF)            | Simple graphic library, Segment design, Events, 3D projection in 2D | C        | `Imperative programming` `Rigor` `Algorithms & AI` `Graphics`  | 108/100  |
+| [Push_Swap](https://github.com/Zpalfi42/Push_Swap) | Sorting algorithms, Battery concept and handling elements, Algorithm implementation | C        | `Imperative programming` `Rigor` `Algorithms & AI` `Unix`  | 86/100  |
 
 <h5 align="center">⚠️👷Currently working in Philosophers👷⚠️</h5>
  
 <h3>&nbsp;</h3>
 <h2 align="center">♦️ C Templates ♦️</h2>
 
-#### I've done some [`templates`](https://github.com/Zsolt42/42_Cursus_zpalfi/tree/main/C_Templates) for your projects in C. In this templates I added [`Libft`](https://github.com/Zsolt42/Libft) [`Get Next Line`](https://github.com/Zsolt42/GNL) and [`ft_Printf`](https://github.com/Zsolt42/Printf).
+#### I've done some [`templates`](https://github.com/Zpalfi42/42_Cursus_zpalfi/tree/main/C_Templates) for your projects in C. In this templates I added [`Libft`](https://github.com/Zpalfi42/Libft) [`Get Next Line`](https://github.com/Zpalfi42/GNL) and [`ft_Printf`](https://github.com/Zpalfi42/Printf).
