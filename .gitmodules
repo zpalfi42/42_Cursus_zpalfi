@@ -13,3 +13,6 @@
 [submodule "FdF42"]
 	path = FdF42
 	url = https://github.com/Zsolt42/FdF.git
+[submodule "Push_Swap"]
+	path = Push_Swap
+	url = https://github.com/zpalfi42/Push_Swap.git
