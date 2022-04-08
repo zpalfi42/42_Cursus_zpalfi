@@ -3,7 +3,7 @@
 <h3>&nbsp;</h3>
 <h1 align="center">👾 My Holy Graph 👾</h1>
 
-![Holy Graph](https://github.com/Zsolt42/42_Cursus_zpalfi/blob/main/Addings/holy_graph.png)
+![Holy Graph](https://github.com/Zsolt42/42_Cursus_zpalfi/blob/main/Addings/holy_graph_1.png)
 
 <h3>&nbsp;</h3>
 <h2 align="center">✨ FINISHED PROJECTS ✨</h2>
