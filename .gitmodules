@@ -16,3 +16,6 @@
 [submodule "Push_Swap"]
 	path = Push_Swap
 	url = https://github.com/zpalfi42/Push_Swap.git
+[submodule "Philosophers"]
+	path = Philosophers
+	url = https://github.com/zpalfi42/Philosophers.git
