@@ -19,3 +19,6 @@
 [submodule "Philosophers"]
 	path = Philosophers
 	url = https://github.com/zpalfi42/Philosophers.git
+[submodule "Minishell"]
+	path = Minishell
+	url = https://github.com/zpalfi42/Minishell
