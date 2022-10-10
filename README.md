@@ -18,8 +18,9 @@
 | [FdF](https://github.com/Zpalfi42/FdF)            | Simple graphic library, Segment design, Events, 3D projection in 2D | C        | `Imperative programming` `Rigor` `Algorithms & AI` `Graphics`  | 108/100  |
 | [Push_Swap](https://github.com/Zpalfi42/Push_Swap) | Sorting algorithms, Battery concept and handling elements, Algorithm implementation | C        | `Imperative programming` `Rigor` `Algorithms & AI` `Unix`  | 86/100  |
 | [Philosophers](https://github.com/Zpalfi42/Philosophers) | Unix logic                                                      | C        | `Unix` `Imperative programming` `Rigor` | 100/100  |
+| [Minishell](https://github.com/Zpalfi42/Minishell) | Unix logic                                                      | C        | `Unix` `Imperative programming` `Rigor` | 101/100  |
 
-<h5 align="center">⚠️👷Currently working in Minishell👷⚠️</h5>
+<h5 align="center">⚠️👷Currently working in CPP modules👷⚠️</h5>
  
 <h3>&nbsp;</h3>
 <h2 align="center">♦️ C Templates ♦️</h2>
